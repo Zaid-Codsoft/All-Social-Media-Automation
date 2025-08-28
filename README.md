@@ -1,4 +1,6 @@
 # All-Social-Media-Automation
+
+![Automation](https://github.com/Zaid-Codsoft/All-Social-Media-Automation/blob/main/Social%20Media%20Automation.png)
 This workflow automates the management of multiple social media platforms using n8n, enabling businesses to schedule, post, and monitor content efficiently. It streamlines social media marketing by reducing manual effort, ensuring consistency, and improving engagement across channels.
 
 Key Features:
